@@ -18,8 +18,8 @@ public class Insertion {
 		//Sor1 ob1= new Sor1();
 		System.out.println("Value Before Sorting");
          ob.display(s);
-      //ob.insertion(s);
-        ob.selection(s);
+      ob.insertion(s);
+        //ob.selection(s);
        System.out.println("Value after Sorting");
        ob.display(s);
 }
@@ -69,6 +69,13 @@ public  void selection(int s[]){
 		
 	}
 	}
+public void Quick(int a[],int b)
+{
+	if(b<4)
+	{
+		
+	}
+}
 public int min(int s[],int k)
 {
 	int su=s[k];
