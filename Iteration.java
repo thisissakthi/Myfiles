@@ -3,7 +3,6 @@ package hello;
 public class Iteration {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		int x=0,i,j;
 		for(i=0;i<19;i++)
 		{
