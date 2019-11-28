@@ -41,7 +41,6 @@ for(int j=0;j<n;j++)
 	for(int h=0;h<count;h++)
 	{
 	a[--n]=0;	
-	//k--;
 	}
 	return a;
 	}
