@@ -7,7 +7,6 @@ public class Testing {
 	public static void main(String[] args) {
 	 System.out.println("Eneter  the T");
 		 Scanner s=new Scanner(System.in);
-		//int n=s.nextInt();
 		System.out.println("1st array value");
 		int m1=s.nextInt();
 		System.out.println("2nd array value");
@@ -17,7 +16,6 @@ public class Testing {
 		class1 ob=new class1();
 		class2 ob1=new class2();
 		System.out.println("1array value");
-		//for(int i=0;i<n;i++)
 		{
 		    for(int j=0;j<m1;j++)
 		    {
