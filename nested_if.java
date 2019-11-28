@@ -3,7 +3,6 @@ package hello;
 public class nested_if {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		int arr[][]= {{1,2,3},{4,5,6}},age=18;
 		//try()
 		//{
@@ -30,9 +29,6 @@ public class nested_if {
 		}
 		System.out.println();
 	}
-/*catch(exception e)
-		{
-	System.out.println(e);
-		}*/
+
 	}
 }
