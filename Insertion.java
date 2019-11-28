@@ -19,7 +19,6 @@ public class Insertion {
 		System.out.println("Value Before Sorting");
          ob.display(s);
       ob.insertion(s);
-        //ob.selection(s);
        System.out.println("Value after Sorting");
        ob.display(s);
 }
